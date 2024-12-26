@@ -24,36 +24,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
          
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/rapik_gimang' //instagram
-global.sgh = 'https://github.com/Rapikz-kwontwol' //github
-global.sgc = 'https://chat.whatsapp.com/KQifWAxGnAi3UOD9BxVo6F' //group whatsapp
-global.saluran = 'https://whatsapp.com/channel/0029VaoJb11LikgEpNpBty0e' //saluran whatsapp
-global.syt = 'https://www.youtube.com/@rapik_gimangYT' //youtube
-global.swa = 'https://wa.me/6281312651566' //whatsapp
-global.tele = 'https://t.me/rapikz' //telegram
+global.sig = 'https://instagram.com/luofein_99' //instagram
+global.sgh = 'https://github.com/ZurrBotz' //github
+global.sgc = 'https://chat.whatsapp.com/' //group whatsapp
+global.saluran = 'https://whatsapp.com/channel/' //saluran whatsapp
+global.syt = 'https://www.youtube.com/' //youtube
+global.swa = 'https://wa.me/6281211037493' //whatsapp
+global.tele = 'https://t.me/zurabj' //telegram
 global.sdc = 'https://discord.gg/' //discord
 global.snh = 'https://nhentai.net/' //nhentai
-global.idch = '120363318498252170@newsletter' // ID CHANNEL LU
+global.idch = '' // ID CHANNEL LU
 
 /*============== PAYMENT ==============*/
-global.pdana = '081312651566' //pulsa1
-global.ppulsa = '083870640516' //pulsa2
-global.povo = '081312651566' //ovo
-global.gopay = '081312651566' //gopay
-global.dana = '081312651566' //dana
+global.pdana = '081211037493'
+global.ppulsa = '081211037493' //pulsa2
+global.povo = '' //ovo
+global.gopay = '081575159679' //gopay
+global.dana = '081211037493' //dana
 global.sid = 's.id' //s.id
 global.psaweria = 'https://saweria.com/' //saweria
 
 /*============== NOMOR ==============*/
-global.nomorwa = '6281312651566' //whatsapp
-global.nomorbot = '6283870640516' //nomor Bot
-global.nomorown = '6281312651566' //nomor Owner
+global.nomorwa = '6281211037493' //whatsapp
+global.nomorbot = '6281575159679' //nomor Bot
+global.nomorown = 6281211037493' //nomor Owner
 global.namebot = 'ᴇʟᴀɪɴᴀ ᴀɪ' //nama Bot
 global.nameown = '尺卂千丨Ҩツ' //nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281312651566', 'RAPIKZ', true] //creator/owner
+  ['6281211037493', 'RAPIKZ', true] //creator/owner
 ] //put your number here
 global.mods = [] //moderator
 global.prems = [] //prem bukan disini
@@ -323,7 +323,7 @@ global.wait = 'LOADING COK TUNGGU AJA.... '
 global.eror = 'Error Njir😹'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-1265-1566'
+global.phn = '+62 812-1103-7493'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -333,8 +333,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
-
+global.thumbdoc = 'https://i.ibb.co.com/V96gs5b/IMG-20241128-WA0001.jpg'
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
